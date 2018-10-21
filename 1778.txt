@@ -692,9 +692,9 @@ Enter a FAIRY at One door, and PUCK at another
 
   PUCK. How now, spirit! whither wander you?
   FAIRY.      Over hill, over dale,
-                Thorough bush, thorough brier,
+                Thorough bush, through brier,
               Over park, over pale,
-                Thorough flood, thorough fire,
+                Thorough flood, through fire,
               I do wander every where,
               Swifter than the moon's sphere;
               And I serve the Fairy Queen,
@@ -801,7 +801,7 @@ Enter a FAIRY at One door, and PUCK at another
     Therefore the moon, the governess of floods,
     Pale in her anger, washes all the air,
     That rheumatic diseases do abound.
-    And thorough this distemperature we see
+    And through this distemperature we see
     The seasons alter: hoary-headed frosts
     Fall in the fresh lap of the crimson rose;
     And on old Hiems' thin and icy crown
@@ -1221,7 +1221,7 @@ and
   BOTTOM. Nay, you must name his name, and half his face must be
 seen
     through the lion's neck; and he himself must speak through,
-    saying thus, or to the same defect: 'Ladies,' or 'Fair
+    saying thus, or to the same effect: 'Ladies,' or 'Fair
 ladies, I
     would wish you' or 'I would request you' or 'I would entreat
 you
